@@ -10,3 +10,8 @@
 
 
 
+[[OWASP Broken Web Applications Project - Browse Files at SourceForge.net](https://sourceforge.net/projects/owaspbwa/files/)]
+
+​	用户名默认为**root，**密码默认为**owaspbwa**，密码默认不可见
+
+​	网络模式建议使用“**仅主机**”模式或者“**NAT**”模式，在浏览器输入OWASP的IP地址就可以使用了
